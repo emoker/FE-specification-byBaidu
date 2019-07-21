@@ -1,5 +1,5 @@
 # FE-specification-byBaidu
-百度的前端代码规范
+百#度#的#前#端#代#码#规#范
 
 [CSS编码规范.html](https://junlingzhang.github.io/FE-specification-byBaidu/CSS编码规范.html)  
 [HTML编码规范.html](https://junlingzhang.github.io/FE-specification-byBaidu/HTML编码规范.html)  
